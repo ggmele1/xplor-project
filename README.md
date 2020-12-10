@@ -1,6 +1,6 @@
 # xplor
 
- Xplor is a social media application that allows users to create an account, login, post to the xplor feed, and like other users posts. This application was built using the MERN (MongoDB, Express.js, React JS, Node.js) stack and authenticates users with a JSON web token.
+[Xplor](https://x-plor.netlify.app/) is web application that uses the Spotify Developer API. View your most listened tracks and artists and switch between 3 different time periods. is a social media application that allows users to create an account, login, post to the xplor feed, and like other users posts. This application was built using the MERN (MongoDB, Express.js, React JS, Node.js) stack and authenticates users with a JSON web token.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
